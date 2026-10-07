@@ -1,3 +1,4 @@
 ﻿我的 Git 练习仓库
 第1行：学会 add/commit
 第2行：学会 merge/rebase
+第3行：今天学会了push嘟嘟可
